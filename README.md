@@ -1,5 +1,5 @@
 ### Hi there 👋
-Descrição em desenvolvimente...
+Descrição em desenvolvimento...
 
 <!--
 **heyquidute/heyquidute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
