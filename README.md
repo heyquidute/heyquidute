@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B5B5B5&height=120&section=header&text=Ana%20Clara%20Quidute&fontSize=36&fontColor=1a1a1a&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B5B5B5&height=120&section=header&text=Ana%20Clara%20Quidute&fontSize=36&fontColor=f8f6f0&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 ### Analista de Dados & Desenvolvedora · Brasil 🇧🇷
 
