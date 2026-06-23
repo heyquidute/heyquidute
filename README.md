@@ -1,6 +1,6 @@
 # Oi. Sou a Ana Clara Quidute 👋
 
-Sou desenvolvedora Full Stack focada em criar soluções que automatizam processos, economizam tempo e transformam ideias em produtos digitais.
+Sou desenvolvedora Full Stack orientada por criar soluções que automatizam processos, economizam tempo e transformam ideias em produtos digitais.
 
 Meu foco é desenvolver aplicações utilizando Inteligência Artificial, automações, dashboards e sistemas web que resolvem problemas reais.
 
