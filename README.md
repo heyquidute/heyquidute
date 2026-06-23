@@ -1,122 +1,101 @@
-<div align="center">
+# Olá! 👋
 
-<br/>
+Sou desenvolvedora Full Stack apaixonada por criar soluções que automatizam processos, economizam tempo e transformam ideias em produtos digitais.
 
-```
-  ██████╗ ██╗   ██╗██╗██████╗ ██╗   ██╗████████╗███████╗
- ██╔═══██╗██║   ██║██║██╔══██╗██║   ██║╚══██╔══╝██╔════╝
- ██║   ██║██║   ██║██║██║  ██║██║   ██║   ██║   █████╗  
- ██║▄▄ ██║██║   ██║██║██║  ██║██║   ██║   ██║   ██╔══╝  
- ╚██████╔╝╚██████╔╝██║██████╔╝╚██████╔╝   ██║   ███████╗
-  ╚══▀▀═╝  ╚═════╝ ╚═╝╚═════╝  ╚═════╝   ╚═╝   ╚══════╝
-```
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Analista+de+Dados+%26+Desenvolvedora;Transformando+dados+em+decis%C3%B5es;Construindo+produtos+com+prop%C3%B3sito" alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_PORTFOLIO.com)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quidute.dev@gmail.com)
-
-<br/>
-
-</div>
+Meu foco é desenvolver aplicações modernas utilizando Inteligência Artificial, automações, dashboards e sistemas web que resolvem problemas reais.
 
 ---
 
-<br/>
+## 🚀 Áreas de atuação
 
-```python
-ana_clara = {
-    "role"     : "Analista de Dados · Desenvolvedora",
-    "location" : "Brasil 🇧🇷",
-    "focus"    : ["dados", "IA aplicada", "produtos digitais"],
-    "now"      : "construindo projetos próprios entre planilhas e linhas de código",
-    "ask_me"   : "análise de dados, visualização, React, Flutter",
-}
-```
-
-<br/>
+- 💻 Desenvolvimento Full Stack
+- 🤖 Inteligência Artificial
+- ⚙️ Automação de Processos
+- 📊 Business Intelligence
+- 📈 Dashboards
+- ☁️ SaaS
+- 📦 Sistemas internos
+- 🔄 Integrações entre sistemas
 
 ---
 
-<br/>
+## 🛠 Tecnologias
 
-<div align="center">
+### Front-end
 
-### ── LINGUAGENS ──
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-<br/>
+### Back-end
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
-<br/>
+### Banco de Dados
 
-### ── FERRAMENTAS ──
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-<br/>
+### Ferramentas
 
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### ── ESTATÍSTICAS ──
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=heyquidute&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=ffffff&ring_color=000000" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyquidute&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" />
-
-<br/><br/>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=heyquidute&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=555555)
-
-<br/><br/>
-
-### ── CONQUISTAS ──
-
-<br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=heyquidute&theme=flat&no-frame=true&column=6&margin-w=10&title_color=000000&text_color=555555&bg_color=ffffff)
-
-<br/><br/>
-
-### ── CONTRIBUIÇÕES ──
-
-<br/>
-
-![Snake](https://raw.githubusercontent.com/heyquidute/heyquidute/output/github-contribution-grid-snake.svg)
-
-<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
 ---
 
-<br/>
+## 📌 Atualmente
 
-<img src="https://komarev.com/ghpvc/?username=heyquidute&style=flat-square&color=000000&label=VISITAS" alt="visitors"/>
+🔹 Desenvolvendo sistemas SaaS
 
-<br/><br/>
+🔹 Criando automações com IA
 
-*"Os dados contam histórias. Eu só ajudo a traduzi-las."*
+🔹 Construindo dashboards e soluções de BI
 
-<br/>
+🔹 Estudando Arquitetura de Software
 
-</div>
+🔹 Explorando IA aplicada a negócios
+
+---
+
+## ⭐ Projetos
+
+🚀 Em breve meus principais projetos estarão organizados nesta página.
+
+Alguns temas:
+
+- Sistemas para empresas
+- Plataformas SaaS
+- Automações
+- Dashboards
+- IA aplicada
+- Ferramentas internas
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent)
+
+---
+
+## 📫 Contato
+
+LinkedIn:
+www.linkedin.com/in/seu-link
+
+Email:
+seuemail@email.com
+
+---
+
+> "Tecnologia só faz sentido quando resolve problemas reais."
