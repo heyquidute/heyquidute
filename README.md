@@ -79,12 +79,11 @@ Alguns temas:
 ---
 
 ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=heyquidute&show_icons=true&theme=transparent)
 
-![](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent)
+![](https://github-readme-streak-stats.herokuapp.com/?user=heyquidute&theme=transparent)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=transparent)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyquidute&layout=compact&theme=transparent)
 
 ---
 
