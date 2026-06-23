@@ -92,6 +92,9 @@ Alguns temas:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyquidute&theme=transparent&hide_border=true"/>
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heyquidute/heyquidute/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -107,6 +110,4 @@ quidute.dev@gmail.com
 
 > "Tecnologia só faz sentido quando resolve problemas reais."
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/heyquidute/heyquidute/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
