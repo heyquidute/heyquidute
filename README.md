@@ -93,6 +93,8 @@ Alguns temas:
 
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyquidute&theme=github-compact"/>
+
 ---
 
 ## 📫 Contato
