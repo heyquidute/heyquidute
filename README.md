@@ -1,8 +1,8 @@
-# Olá! 👋
+# Oi. Sou a Ana Clara Quidute 👋
 
-Sou desenvolvedora Full Stack apaixonada por criar soluções que automatizam processos, economizam tempo e transformam ideias em produtos digitais.
+Sou desenvolvedora Full Stack focada em criar soluções que automatizam processos, economizam tempo e transformam ideias em produtos digitais.
 
-Meu foco é desenvolver aplicações modernas utilizando Inteligência Artificial, automações, dashboards e sistemas web que resolvem problemas reais.
+Meu foco é desenvolver aplicações utilizando Inteligência Artificial, automações, dashboards e sistemas web que resolvem problemas reais.
 
 ---
 
@@ -94,7 +94,7 @@ LinkedIn:
 www.linkedin.com/in/seu-link
 
 Email:
-seuemail@email.com
+quidute.dev@gmail.com
 
 ---
 
