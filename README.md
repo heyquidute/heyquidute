@@ -106,3 +106,7 @@ quidute.dev@gmail.com
 ---
 
 > "Tecnologia só faz sentido quando resolve problemas reais."
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heyquidute/heyquidute/output/github-contribution-grid-snake-dark.svg" />
+</p>
