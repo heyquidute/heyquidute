@@ -98,9 +98,6 @@ Alguns temas:
 
 ## 📫 Contato
 
-LinkedIn:
-www.linkedin.com/in/seu-link
-
 Email:
 quidute.dev@gmail.com
 
